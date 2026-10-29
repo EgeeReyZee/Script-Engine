@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScriptEngine</string>
+    <string name="accessibility_service_label">ScriptEngine AutoClick</string>
+    <string name="accessibility_service_description">Allows ScriptEngine to perform automated clicks and gestures</string>
+    <string name="notification_channel_name">Script Service</string>
+    <string name="notification_title">ScriptEngine Running</string>
+    <string name="notification_text">Automation script is active</string>
+</resources>
